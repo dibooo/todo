@@ -1,0 +1,47 @@
+export const data=[
+    {
+    label:'Name',
+    name:'name',
+    id:'name',
+    lg:6,
+    md:6,
+    sm:12,
+    xs:12
+},
+{
+    label:'Age',
+    name:'age',
+    id:'age',
+    lg:6,
+    md:6,
+    sm:12,
+    xs:12
+},
+{
+    label:'New Password',
+    name:'newPassword',
+    id:'newPassword',
+    lg:6,
+    md:6,
+    sm:12,
+    xs:12
+},
+{
+    label:'Enter New Password Again',
+    name:'confirmNewPassword',
+    id:'confirmNewPassword',
+    lg:6,
+    md:6,
+    sm:12,
+    xs:12
+},
+{
+    label:'Email',
+    name:'email',
+    id:'email',
+    lg:12,
+    md:12,
+    sm:12,
+    xs:12
+}
+] 
